@@ -1833,7 +1833,7 @@ input, select, textarea {
 			top: -4.5em;
 			margin-left: -45px;
 			margin-top: -33px;
-			background: url("images/arrow.svg") no-repeat;
+			background: url("https://raw.githubusercontent.com/TechTutorialGuide/OverflowTemplate/main/arrow.svg") no-repeat;
 		}
 
 		.box :last-child {
