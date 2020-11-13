@@ -84,7 +84,7 @@ input, select, textarea {
 
 	body {
 		background-color: #183026;
-		background-image: url("images/overlay.png"), url("../../images/bg.jpg");
+		background-image: url("images/overlay.png"), url("https://lh3.googleusercontent.com/-yngRO13UJ78/X63OpURhxmI/AAAAAAAAAAc/cJRquvBrPWMK3K-A-rlto_cUONiTM1nUQCLcBGAsYHQ/Chicken_lollipop.jpg");
 		background-repeat: repeat, no-repeat;
 		background-size: auto, cover;
 		background-position: top left, center 0;
